@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617080042143",
+    "firebase_url": "https://wambaapp.firebaseio.com",
+    "project_id": "wambaapp",
+    "storage_bucket": "wambaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617080042143:android:5056700d68e06aa6",
+        "android_client_info": {
+          "package_name": "com.example.kirito.wambaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617080042143-6sf7seka2cncadg1lhtdfflr5hu626k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kirito.wambaapp",
+            "certificate_hash": "C1B3DAE83CB925C92BDD67424D6CBD38CCCD934D"
+          }
+        },
+        {
+          "client_id": "617080042143-t5lb3mshfscsk0chqcpdolfo72lsgrt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkb3eD1Ui4S0Een89vV9vGar9BiuZYc4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617080042143-t5lb3mshfscsk0chqcpdolfo72lsgrt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
